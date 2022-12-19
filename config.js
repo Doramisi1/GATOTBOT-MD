@@ -130,7 +130,7 @@ global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
 global.md = 'https://github.com/Doramisi1/GOTOTBOT-MD'
-global.gatabot = MD
+global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/L3UxEZG9HNj3mkULoHC1Ns'
 global.nnagrupo = nna //UPDATE GATABOT
@@ -188,7 +188,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'gata-bot: awas di maling
+global.wm = 'gata-bot@ awas di maling'
 global.igfg = '@ega-ganteng'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
