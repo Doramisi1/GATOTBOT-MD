@@ -7,11 +7,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  //['50495086382', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['972529277521', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
+  ['6283849469400', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['6283802603905', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
+  ['972529277521', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
+  ['51922659974', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
   ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
   ['5492266466080'], 
   ['573136855110'],
@@ -25,7 +26,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['6283802603905','6283849469400'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -35,7 +36,7 @@ global.prems = ['528451003894'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = id  //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -108,8 +109,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'gata-bot 🐈'
+global.author = '@ega-ganteng'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -128,35 +129,32 @@ global.youtube = yt
 global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.gatabot = md
+global.md = 'https://github.com/Doramisi1/GOTOTBOT-MD'
+global.gatabot = MD
 
-global.nna = 'https://chat.whatsapp.com/LXyGNqBFB4T5QXR2DeHGuc'
+global.nna = 'https://chat.whatsapp.com/L3UxEZG9HNj3mkULoHC1Ns'
 global.nnagrupo = nna //UPDATE GATABOT
-global.nna2 = 'LXyGNqBFB4T5QXR2DeHGuc'
+global.nna2 = 'L3UxEZG9HNj3mkULoHC1Ns'
 
-global.nn = 'https://chat.whatsapp.com/CSg0A9ON1hICi3h9L9I5X7'
+global.nn = 'https://chat.whatsapp.com/E8taQkjkSNYKwAdMzyhy8b'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/IgBGMlZdVaPKbMTBWS76kx'
+global.nnn = 'https://chat.whatsapp.com/BrJ14QmdDIN1g9mJFgEb0z'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/Hd5eOkVglWE9kcgygGgO9r'
+global.nnnt = 'https://chat.whatsapp.com/H2IbSdjCJHYE2SnwGhU3T4'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/KVDdeYZvS5eAXfaUd6Hm5w'
+global.nnntt = 'https://chat.whatsapp.com/BKZMsopgdMXEahXSu0c9zl'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/FHB0O22lqM5Cqp78CJIRXu'
+global.nnnttt = 'https://chat.whatsapp.com/LCmsZ6Zsxuk38zKb9v1MZT'
 global.nnntttgrupo = nnnttt //Grupo 5
-
-global.nnnttt2 = 'https://chat.whatsapp.com/JYLVmFqdWtm9NxXb7D92dx'
-global.nnnttt2grupo = nnnttt2 //Grupo 6
 
 global.paypal = 'https://paypal.me/OficialGD'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/6283802603905' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -190,13 +188,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'gata-bot: awas di maling
+global.igfg = '@ega-ganteng'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '6283849469400','6283802603905'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
