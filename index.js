@@ -70,3 +70,4 @@ if (!opts['test'])
 if (!rl.listenerCount()) rl.on('line', line => {
 p.emit('message', line.trim())})}
 start('main.js') 
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
